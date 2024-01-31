@@ -4,10 +4,10 @@ The Wi-Fi Masterkey script is designed to allow users to view the available Wi-F
 
 ## Usage:
 
-Run the script in a command prompt or batch file.
-The script will display the available Wi-Fi profiles on the system.
-Enter the name of the Wi-Fi profile for which you want to retrieve the password.
-The script will then display the password for the specified Wi-Fi profile.
+* Run the script in a command prompt or batch file.
+* The script will display the available Wi-Fi profiles on the system.
+* Enter the name of the Wi-Fi profile for which you want to retrieve the password.
+* The script will then display the password for the specified Wi-Fi profile.
 
 
 ## Version 2 Changes: 
