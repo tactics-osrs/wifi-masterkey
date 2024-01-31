@@ -15,7 +15,7 @@ The script will then display the password for the specified Wi-Fi profile.
 
 
 ## License: 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. Open-Source.
 
 ### Version 1(Masterkey):
 ```
