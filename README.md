@@ -14,10 +14,10 @@ The script will then display the password for the specified Wi-Fi profile.
 **In version 2, users can input a new password to effectively change their Wi-Fi password. This functionality enhances the script’s utility by allowing users to update their Wi-Fi credentials directly through the batch script.**
 
 
-### License: 
+## License: 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Version 1(Masterkey):
+### Version 1(Masterkey):
 ```
 @echo off
 REM Script Name: Wi-Fi Masterkey
@@ -40,7 +40,7 @@ endlocal
 pause
 ```
 
-## Version 2(PW Changer):
+### Version 2(PW Changer):
 ```
 @echo off
 REM Script Name: Wi-Fi PW Changer
